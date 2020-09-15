@@ -26,7 +26,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Removal needs to be addressed, program crashes
+* [ ] Keyboard needs to be hidden
 
 ## Video Walkthrough
 
